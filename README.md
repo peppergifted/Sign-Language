@@ -1,4 +1,4 @@
-## Google - ASL Fingerspelling Recognition 1st place solution
+## 手语识别项目 - ASL Fingerspelling Recognition 1st place solution
 
 This repository contains the codebase to reproduce the winning solution to the Google - ASL Fingerspelling Recognition competition on kaggle. 
 
